@@ -16,12 +16,24 @@ Here are some ideas to get you started:
 
 <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTJkazR4cTJsc3duNmg5bjE1c3Y0bm9yMHNvN3UxMzEwd3l1NWFvYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ckr4W2ppxPBeIF8dx4/giphy.gif" width="630"/>
 
+# Hi there 👋, I'm Damarr
+##### About Me :
+###### I am a 16 year old student. I am currently in vocational school and I am studying at SMK Muhammadiyah 1 Sukoharjo. At school I took a vocational course in Software Development (PPL). I am very interested in the world of computers and programming, therefore I will continue to learn and always try new things!
+##
+
 
 ##### what I learned 📖
 ![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![iamge](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) ![iamge](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue) ![iamge](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white) ![image](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) ![iamge](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white) ![iamge](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
 
+##
 ##### Best Tools & Partner 🛠
 ![image](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
+
+##
+#### Contributions 📎
+<div>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ddamar798&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
 
 <img src="https://raw.githubusercontent.com/ddamar798/ddamar798/output/snake.svg" alt="Snake animation" />
 
