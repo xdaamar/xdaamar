@@ -14,8 +14,7 @@ Here are some ideas to get you started:
 -->
 <!-- <h1 align="left">Hey 👋 I'M DAMARR</h1> -->
 
-<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmt4ZWNhbTZ3dGk3eGFvdWV5Nnd4eG00ejAzdGQ5cWd4cWljdzJjciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/H03PuVdwREB21ANkLX/giphy.gif
-" width="700"/>
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmt4ZWNhbTZ3dGk3eGFvdWV5Nnd4eG00ejAzdGQ5cWd4cWljdzJjciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/H03PuVdwREB21ANkLX/giphy.gif" width="600"/>
 
 # Hi there 👋, I'm Damarr
 ##### About Me :
