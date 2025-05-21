@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 <!-- <h1 align="left">Hey 👋 I'M DAMARR</h1> -->
 
 <p align="center" width="100%">
-  <img width="100%" src="https://media.tenor.com/sctHwUM5YrMAAAAd/bocchi-the-rock-ikuyo-kita.gif" alt="BTR Ikuyo Kita">
+  <img width="100%" src="https://github.com/ddamar798/ddamar798/blob/main/tenor.gif?raw=true" alt="Neon KECEE">
 </p>
 # Hi there 👋, I'm Damarr
 ##### About Me :
