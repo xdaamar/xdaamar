@@ -13,11 +13,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!-- <h1 align="left">Hey 👋 I'M DAMARR</h1> -->
-
+# Hi there 👋, I'm Damarr
+#####
 <p align="center" width="100%">
   <img width="100%" src="https://github.com/ddamar798/ddamar798/blob/main/tenor.gif?raw=true" alt="Neon KECEE">
 </p>
-# Hi there 👋, I'm Damarr
+
+###
 ##### About Me :
 ###### I am a 16 year old student. I am currently in vocational school and I am studying at SMK Muhammadiyah 1 Sukoharjo. At school I took a vocational course in Software Development (PPL). I am very interested in the world of computers and programming, therefore I will continue to learn and always try new things!
 ##
