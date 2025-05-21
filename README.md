@@ -14,8 +14,9 @@ Here are some ideas to get you started:
 -->
 <!-- <h1 align="left">Hey 👋 I'M DAMARR</h1> -->
 
-<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmt4ZWNhbTZ3dGk3eGFvdWV5Nnd4eG00ejAzdGQ5cWd4cWljdzJjciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/H03PuVdwREB21ANkLX/giphy.gif" width="640"/>
-
+<p align="center" width="100%">
+  <img width="100%" src="https://media.tenor.com/sctHwUM5YrMAAAAd/bocchi-the-rock-ikuyo-kita.gif" alt="BTR Ikuyo Kita">
+</p>
 # Hi there 👋, I'm Damarr
 ##### About Me :
 ###### I am a 16 year old student. I am currently in vocational school and I am studying at SMK Muhammadiyah 1 Sukoharjo. At school I took a vocational course in Software Development (PPL). I am very interested in the world of computers and programming, therefore I will continue to learn and always try new things!
