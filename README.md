@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 # Hi there 👋, I'm Damarr
 #####
 <p align="center" width="100%">
-  <img width="100%" src="https://github.com/ddamar798/ddamar798/blob/main/pinterestdownloader.com-1748068884.549198.gif?raw=true" alt="Neon KECEE">
+  <img width="100%" src="[https://github.com/ddamar798/ddamar798/blob/main/pinterestdownloader.com-1748068884.549198.gif](https://github.com/ddamar798/ddamar798/blob/main/pinterestdownloader.com-1748345077.978633.gif?raw=true)?raw=true" alt="Neon KECEE">
 </p>
 
 ###
