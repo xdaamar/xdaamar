@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 # Hi there 👋, I'm Damarr
 #####
 <p align="center" width="100%">
-  <img  src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3N4MHJ0Y3JndmNlcWoyeGZkYng5ZGJweXViNDI2anZ1ZzJnMnhyaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif" alt="Hengker cuuy">
+  <img  src="[https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3N4MHJ0Y3JndmNlcWoyeGZkYng5ZGJweXViNDI2anZ1ZzJnMnhyaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmt4ZWNhbTZ3dGk3eGFvdWV5Nnd4eG00ejAzdGQ5cWd4cWljdzJjciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/H03PuVdwREB21ANkLX/giphy.gif)" alt="Hengker cuuy">
 </p>
 
 ###
