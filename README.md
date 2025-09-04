@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!-- <h1 align="left">Hey 👋 I'M DAMARR</h1> -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&size=30&duration=3000&pause=2000&color=2EF720&width=435&lines=%7C%3D%3D%3D%3D%3D+LOADING+%3D%3D%3D%3D%3D%7C;Hello+world!%F0%9F%91%8B%F0%9F%8F%BB;+I'M+DAMARR;I+am+16+years+old%2C;I'm+From+Indonesian.;Let's+be+friends!+;%7C%3D%3D%3D%3D%3D+50%25+%3D%3D%3D%3D%3D%7C;DONE!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&size=30&duration=3000&pause=2000&color=F7F7F7&width=435&lines=%7C%3D%3D%3D%3D%3D+LOADING+%3D%3D%3D%3D%3D%7C;Hello+world!%F0%9F%91%8B%F0%9F%8F%BB;+I'M+DAMARR;I+am+16+years+old%2C;I'm+From+Indonesian.;Let's+be+friends!+;%7C%3D%3D%3D%3D%3D+50%25+%3D%3D%3D%3D%3D%7C;COMPLET!)](https://git.io/typing-svg)
 -
 #####
 <p align="center" width="100%">
