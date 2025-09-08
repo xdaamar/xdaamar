@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 <!-- <h1 align="left">Hey 👋 I'M DAMARR</h1> -->
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&size=30&duration=3000&pause=2000&color=F7F7F7&width=435&lines=%7C%3D%3D%3D%3D%3D+LOADING+%3D%3D%3D%3D%3D%7C;Hello+world!%F0%9F%91%8B%F0%9F%8F%BB;+I'M+DAMARR;I+am+16+years+old%2C;I'm+From+Indonesian.;Let's+be+friends!+;%7C%3D%3D%3D%3D%3D+50%25+%3D%3D%3D%3D%3D%7C;COMPLET!)](https://git.io/typing-svg)
+
 
        ██████████   █████ █████ ███████████  █████          ███████    █████ ███████████   
       ░░███░░░░███ ░░███ ░░███ ░░███░░░░░███░░███         ███░░░░░███ ░░███ ░█░░░███░░░█   
@@ -24,11 +24,9 @@ Here are some ideas to get you started:
        ░███    ███   ███ ░░███  ░███         ░███      █░░███     ███  ░███     ░███       
        ██████████   █████ █████ █████        ███████████ ░░░███████░   █████    █████      
       ░░░░░░░░░░   ░░░░░ ░░░░░ ░░░░░        ░░░░░░░░░░░    ░░░░░░░    ░░░░░    ░░░░░                                                                                                                                                                                                                                                                                        
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&size=30&duration=3000&pause=2000&color=F7F7F7&width=435&lines=%7C%3D%3D%3D%3D%3D+LOADING+%3D%3D%3D%3D%3D%7C;Hello+world!%F0%9F%91%8B%F0%9F%8F%BB;+I'M+DAMARR;I+am+16+years+old%2C;I'm+From+Indonesian.;Let's+be+friends!+;%7C%3D%3D%3D%3D%3D+50%25+%3D%3D%3D%3D%3D%7C;COMPLET!)](https://git.io/typing-svg)
+
 -
-#####
-<p align="center" width="100%">
-  <img  src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDcwdGVsYzlncG4xdmJ2MnZqeWNwcHlkeHY0MTlvNmJ4Z3BnY2FuayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZeyBRCLxjPrqg/giphy.gif" alt="Hengker cuuy">
-</p>
 
 ###
 ##### About Me :
